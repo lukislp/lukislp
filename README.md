@@ -23,4 +23,10 @@ Website: [lktec.org](https://lktec.org)
 
 ## Stack
 
-.NET · C# · Python · TypeScript · Kubernetes · Docker · Home Assistant
+**Languages:** C# · TypeScript · JavaScript · Python · SQL
+
+**Frameworks & Platforms:** .NET / ASP.NET Core · React · Kubernetes (k3s) · Docker
+
+**Data:** Data warehousing · ETL pipelines · Oracle · Qlik Sense · ML integration
+
+**Infrastructure & Other:** Home Assistant · IoT · CI/CD · AWS (Solutions Architect candidate)
