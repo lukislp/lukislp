@@ -5,13 +5,6 @@ infrastructure, and home automation tools with .NET, Python, and Kubernetes.
 
 Website: [lktec.org](https://lktec.org)
 
-<!-- ASCII portrait placeholder - swap in once the profile photo is ready -->
-<!--
-```
-(ascii art goes here)
-```
--->
-
 ## Projects
 
 - **[StudyLife](https://github.com/lukislp/studylife)** — self-hosted study organizer (Blazor WASM + ASP.NET Core): calendar, exam planner, focus timer, notes, progress dashboard.
