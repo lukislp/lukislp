@@ -8,12 +8,13 @@ Website: [lktec.org](https://lktec.org)
 
 ## Projects
 
-- **[StudyLife](https://github.com/lukislp/studylife)** — self-hosted study organizer (Blazor WASM + ASP.NET Core): calendar, exam planner, focus timer, notes, progress dashboard. Also available as a [native MAUI app](https://github.com/lukislp/studylife-app) and a [Home Assistant integration](https://github.com/lukislp/studylife-hacs).
+- **[StudyLife](https://github.com/lukislp/studylife)** — self-hosted study organizer (Blazor WASM + ASP.NET Core): calendar, exam planner, focus timer, notes, progress dashboard. Also available as a [native MAUI app](https://github.com/lukislp/studylife-app) and a [Home Assistant integration](https://github.com/lukislp/studylife-hacs). **[Live demo →](https://studylife-demo.lktec.org)**
 - **[Lagersystem](https://github.com/lukislp/Lagersystem)** — self-hosted inventory management system (Blazor Server): multi-warehouse, ML-powered anomaly detection, WebAuthn/passkeys, automated backups. Also available as a [Home Assistant integration](https://github.com/lukislp/Lagersystem-hacs).
+- **[gitlab-monitor-hacs](https://github.com/lukislp/gitlab-monitor-hacs)** — Home Assistant integration for GitLab: pipelines, issues, merge requests, and releases as sensors per repository, for gitlab.com or self-hosted instances.
 - **[HouseHoldPlanner](https://github.com/lukislp/HouseHoldPlanner)** — self-hosted household management app (Blazor WASM + ASP.NET Core): tasks, meal planning, recipes, calendars, shopping lists, and real-time chat.
 - **[NotifyHub](https://github.com/lukislp/NotifyHub)** — universal .NET library for push notifications across browser (Web Push/VAPID), Apple (APNs), Android (FCM), webhooks, and email through a single channel-agnostic API.
-- **[homelab-hub](https://github.com/lukislp/homelab-hub)** — self-hosted dashboard for homelab status monitoring.
-- **[piwatch](https://github.com/lukislp/piwatch)** — real-time monitoring for Raspberry Pi k3s clusters.
+- **[homelab-hub](https://github.com/lukislp/homelab-hub)** — self-hosted dashboard for homelab status monitoring. **[Live demo →](https://homelabhub-demo.lktec.org)**
+- **[piwatch](https://github.com/lukislp/piwatch)** — real-time monitoring for Raspberry Pi k3s clusters. **[Live demo →](https://piwatch-demo.lktec.org)**
 - **[UnifiProtectDashboard](https://github.com/lukislp/UnifiProtectDashboard)** — self-hosted dashboard for UniFi Protect cameras.
 
 ## Stack
