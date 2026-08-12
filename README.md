@@ -25,7 +25,9 @@ Website: [lktec.org](https://lktec.org)
 
 **Languages:** C# · TypeScript · JavaScript · Python · SQL
 
-**Frameworks & Platforms:** .NET / ASP.NET Core · React · Kubernetes (k3s) · Docker
+**Frameworks & Platforms:** .NET / ASP.NET Core · FastAPI · React · Kubernetes (k3s) · Docker
+
+**AI & LLM:** LLM/RAG engineering · LangGraph agents · Vector search (Qdrant) · RAGAS evaluation · LiteLLM (provider-agnostic)
 
 **Data:** Data warehousing · ETL pipelines · Oracle · Qlik Sense · ML integration
 
