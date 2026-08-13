@@ -28,8 +28,8 @@ Website: [lktec.org](https://lktec.org)
 
 **Frameworks & Platforms:** .NET / ASP.NET Core · FastAPI · React · Kubernetes (k3s) · Docker
 
-**AI & LLM:** LLM/RAG engineering · LangGraph agents · Vector search (Qdrant) · RAGAS evaluation · LiteLLM (provider-agnostic)
+**AI & LLM:** LLM/RAG engineering · LangGraph agents · Vector search (Qdrant) · RAGAS evaluation · LiteLLM (provider-agnostic) · MCP (Model Context Protocol)
 
 **Data:** Data warehousing · ETL pipelines · Oracle · Qlik Sense · ML integration
 
-**Infrastructure & Other:** Home Assistant · IoT · CI/CD · AWS (Solutions Architect candidate)
+**Infrastructure & Other:** Home Assistant · IoT · CI/CD · AWS (Solutions Architect candidate) · OAuth 2.1 (self-built authorization server)
