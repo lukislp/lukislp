@@ -6,6 +6,8 @@ night — from study tools to inventory management to push notifications.
 
 Website: [lktec.org](https://lktec.org)
 
+> **Note:** I've been building these projects since 2024 on my self-hosted GitLab instance (CI/CD included — it's part of my homelab). I migrated them to GitHub in August 2026, which is why the commit history and contribution graph here only start then.
+
 ## Projects
 
 - **[StudyLife](https://github.com/lukislp/studylife)** — self-hosted study organizer (Blazor WASM + ASP.NET Core): calendar, exam planner, focus timer, notes, progress dashboard. Also available as a [native MAUI app](https://github.com/lukislp/studylife-app) and a [Home Assistant integration](https://github.com/lukislp/studylife-hacs). **[Live demo →](https://studylife-demo.lktec.org)**
