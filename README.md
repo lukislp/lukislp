@@ -29,7 +29,7 @@ Website: [lktec.org](https://lktec.org)
 - **[UnifiProtectDashboard](https://github.com/lukislp/UnifiProtectDashboard)** — self-hosted dashboard for UniFi Protect cameras.
 - **[ObdGarage](https://github.com/lukislp/ObdGarage)** — self-hosted, multi-user OBD2 vehicle tracker (Blazor Server + .NET MAUI): automatic trip log, maintenance planner, DTC diagnostics, fuel/cost tracking over a live ELM327 connection.
 
-> **Licensing:** the primary self-hosted apps that manage real personal/business data (StudyLife, studylife-ai, studylife-mcp, studylife-capture, studylife-focus, studylife-webhooks, studylife-marketplace, studylife-developers, studylife-cli, Lagersystem, HouseHoldPlanner, ObdGarage) are **AGPL-3.0**, so any hosted fork has to share its changes back. Infrastructure tooling — dashboards, libraries, Home Assistant integrations — is **MIT**, since the point there is easy reuse and forking, not protecting a product.
+> **Licensing:** the primary self-hosted apps that manage real personal/business data (StudyLife, studylife-ai, studylife-mcp, studylife-capture, studylife-focus, studylife-webhooks, studylife-marketplace, studylife-developers, studylife-cli, Lagersystem, HouseHoldPlanner, ObdGarage) are **AGPL-3.0**, so any hosted fork has to share its changes back. Infrastructure tooling — dashboards, libraries, Home Assistant integrations — is **MIT**, since the point there is easy reuse and forking, not protecting a product. This site's own [portfolio](https://github.com/lukislp/portfolio) repository splits the two: the code is MIT, the written content and images are not.
 
 ## Stack
 
