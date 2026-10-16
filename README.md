@@ -19,4 +19,5 @@ Data Engineer & B.Sc. Applied AI student, building self-hosted .NET/Python apps 
 ### Elsewhere
 
 🔗 **[links.lktec.org](https://links.lktec.org)** — portfolio, live demos, everything else  
-💼 **[XING](https://lktec.org/xing)** — professional profile
+💼 **[XING](https://lktec.org/xing)** — professional profile  
+📦 **Published:** [PyPI](https://pypi.org/user/lukislp/) · [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/lukislp) · Chrome Web Store: [StudyLife Focus](https://chromewebstore.google.com/detail/studylife-focus/bhjoeghhdmaoepmbklbcbdkfnjbgclbh), [StudyLife Capture](https://chromewebstore.google.com/detail/studylife-capture/glhegeoapkifmhodpnbfjgijlflkdglh)
