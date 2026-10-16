@@ -18,4 +18,5 @@ Data Engineer & B.Sc. Applied AI student, building self-hosted .NET/Python apps 
 
 ### Elsewhere
 
-🔗 **[links.lktec.org](https://links.lktec.org)** — portfolio, live demos, everything else
+🔗 **[links.lktec.org](https://links.lktec.org)** — portfolio, live demos, everything else  
+💼 **[XING](https://lktec.org/xing)** — professional profile
